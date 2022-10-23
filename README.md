@@ -4,6 +4,6 @@ Vagrant es una herramienta gratuita de línea de comandos que podemos instalar e
 
 Algunos **comandos**
 
--vagrant init
--vagrant up
--vagrant ssh
+- vagrant init
+- vagrant up
+- vagrant ssh
